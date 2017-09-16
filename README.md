@@ -5,4 +5,5 @@ The simulation was developed using the DESMO-J library, which is a java-based si
 </p>
 
 References:
+
 Vera-Baquero, A., Colomo-Palacios, R., Molloy, O., & Elbattah, M. (2015). Business process improvement by means of Big Data based Decision Support Systems: a case study on Call Centers.
